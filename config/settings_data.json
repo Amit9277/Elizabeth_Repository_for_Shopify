@@ -4,7 +4,7 @@
       "header": {
         "type": "header",
         "custom_css": [
-          "h1 {color: red;}"
+          "h1 {color: red; font-weight: bold;}"
         ],
         "settings": {
           "mobile_menu_title": "Menu",
